@@ -32,7 +32,9 @@ Additionally, the sample project contains Makefile and component.mk files, used 
 They are not used or needed when building with CMake and idf.py.
 
 Nome:   Guilherme Pereira de Menezes
+
 Sala:   5ECA
+
 RM:     89278
 
 ![alt text](image.png)
